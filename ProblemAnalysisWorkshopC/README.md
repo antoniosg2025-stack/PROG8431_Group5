@@ -36,9 +36,13 @@ ProblemAnalysisWorkshopC/
 cd ProblemAnalysisWorkshopC
 py -3.12 -m venv .venv
 .\.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
-Open `Workshop_C_Linear_Regression.ipynb`, select the `.venv` kernel and choose **Run All**.
+Open `Workshop_C_Linear_Regression.ipynb` in VS Code with `ProblemAnalysisWorkshopC` as the notebook’s working directory. Select the `.venv` kernel, restart it, and choose **Run All**. The cell after Section G prints `model_df ready`. Section O displays the four-model comparison, followed by the regional price table in Section P.
 
 ## Contributions
-TODO (Ved): fill in at the end, same style as Workshop B.
+| Member | Work |
+|:--|:--|
+| Asangika Hettiarachchi | Title and research question, setup, data exploration, factor coding, Julian dates, and regional indicators (Sections A, B, and D–G) |
+| Juan Antonio Sainz Galvez | Notebook skeleton and data integration (Section C), Box-Cox, Tukey’s Ladder, train/test checks, regression models, and diagnostics (Sections H–M) |
+| Ved Vishal Patel | Transformation summary, comparison of all four models, conclusions and regional asking prices, README, and seven-minute presentation run sheet (Sections N–R) |
