@@ -45,4 +45,4 @@ Open `Workshop_C_Linear_Regression.ipynb` in VS Code with `ProblemAnalysisWorksh
 |:--|:--|
 | Asangika Hettiarachchi | Title and research question, setup, data exploration, factor coding, Julian dates, and regional indicators (Sections A, B, and D–G) |
 | Juan Antonio Sainz Galvez | Notebook skeleton and data integration (Section C), Box-Cox, Tukey’s Ladder, train/test checks, regression models, and diagnostics (Sections H–M) |
-| Ved Vishal Patel | Transformation summary, comparison of all four models, conclusions and regional asking prices, README, and seven-minute presentation run sheet (Sections N–R) |
+| Ved Vishal Patel | Transformation summary, comparison of all four models, conclusions and regional asking prices (Sections N–P), README contributions, and the seven-minute presentation run sheet (kept outside the notebook) |
